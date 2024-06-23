@@ -4,7 +4,7 @@
  */
 const debugEl = document.getElementById('debug'),
 			// Mapping of indexes to icons: start from banana in middle of initial position and then upwards
-			iconMap = ["woods", "gatsby", "burn", "desk", "fork", "uponly", "yeaa", "topfish", "thanos"],
+			iconMap = ["gatsby", "woods", "thanos", "topFish", "yeaBby", "upOnly", "fork", "desk", "burn"],
 			// Width of the icons
 			icon_width = 79,	
 			// Height of one icon in the strip
